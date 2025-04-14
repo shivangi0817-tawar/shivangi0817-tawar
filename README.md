@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 
-I'm a motivated first-year student currently diving into the world of data and development through hands-on projects and hackathons!!<br>
-I enjoy solving real-world problems using a blend of creativity and logic, with a growing interest in data analytics, backend development, and UI/UX design.<br>
-Currently building impactful projects like ' SustainaSphere ' to make a difference through tech!
+>> I'm a motivated first-year student currently diving into the world of data and development through hands-on projects and hackathons!!<br>
+>> I enjoy solving real-world problems using a blend of creativity and logic, with a growing interest in data analytics, backend development, and UI/UX design.<br>
+>> Currently building impactful projects like ' SustainaSphere ' to make a difference through tech!
 
 
 🔭 I’m currently working on ' SustainaSphere ', a group project focused on sustainability, where I’m contributing to both the frontend and backend development, ensuring a smooth and effective user experience across the platform.<br>👯 I’m looking to collaborate on data-driven projects and real-world solutions in health, AI, and social impact.<br>🤝 I’m looking for help with building a strong foundation in data engineering and data analysis, especially using Python, SQL, and datasets.<br>🌱 I’m currently learning full-stack development, UI/UX Designing, and how to turn messy data into meaningful insights.<br>💬 You can ask me about : My approach to designing intuitive and interactive app interfaces and how to handle data and build meaningful insights!
