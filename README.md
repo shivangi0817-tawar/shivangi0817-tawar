@@ -1,6 +1,6 @@
 # Hey! Shivangi this side - nice to meet you! 👋
 
-Web Developer | Aspiring Analyst | Data Enthusiast | Hackathon Explorer | Currently exploring Python, SQL, MySQL, React and Javascript 🔥
+Web Developer | Aspiring Analyst | Data Enthusiast | Hackathon Explorer | Currently exploring Python, SQL, React and Javascript 🔥
 
 
 
