@@ -6,9 +6,9 @@ Web Developer | Aspiring Analyst | Data Enthusiast | Hackathon Explorer | Curren
 
 # 💫 About Me:
 
-✨ I'm a motivated first-year student currently diving into the world of data and development through hands-on projects and hackathons!!<br>
+✨ I'm a motivated second-year student currently diving into the world of data and development through hands-on projects and hackathons!!<br>
 💡 I enjoy solving real-world problems using a blend of creativity and logic, with a growing interest in data analytics, backend development, and UI/UX design.<br>
-🍃 Currently building impactful projects like ' SustainaSphere ' to make a difference through tech!
+🍃 Currently building impactful projects like ' Smart Ulcer Sense Matress ' to make a difference through tech!
 
 
 
